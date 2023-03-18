@@ -5,6 +5,7 @@ public class Arithmetic {
 	public int sum(int a, int b) {
 		int a1;
 		a1=a+b;
+		System.out.println("This is going to Github Central Repo");
 		System.out.println("Sum Result is " + a1);
 		return a1;
 	}
